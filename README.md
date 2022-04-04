@@ -1,1 +1,1 @@
-# blog-rest-proyect
+# blog-django-rest-framework
